@@ -1,4 +1,3 @@
-# ADK_Basic
 # ADK_Basic Agent Project
 
 This project demonstrates a basic implementation of an AI agent using the Google Agent Development Kit (ADK).
